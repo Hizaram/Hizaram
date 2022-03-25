@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Hizaram
-- 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning backend programming using python programming language 
+- 👋 Hi, I’m Nwachukwu Chizaram
+- 👀 I’m a Software Engineer and Developer. 
+- A Computer Science student at Federal University of Technology, Owerri, Nigeria. 
+- 🌱 I’m currently undergoing Software Engineering training at ALX University. 
+- I have knowledge in Java, Python, Javascript and C programming languages. 
 - 💞️ I’m looking to collaborate on different coding exercises and tasks to help me achieve my goal
 - 📫 How to reach me through my email promisevector@gmail.com 
 
